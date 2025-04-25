@@ -68,7 +68,6 @@
 
 ## 📫 **Let's Collaborate**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-ihsan-597535293)
-
 [![Email](https://img.shields.io/badge/✉️_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:theshoaibihsan10@gmail.com)
 
 ---
