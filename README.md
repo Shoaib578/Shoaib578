@@ -1,6 +1,4 @@
 
-![Profile](https://avatars.githubusercontent.com/u/68475933?logo=github&s=200&r=g&v=4)
-
 # 👋 Hi, I'm Shoaib 
 
 ### **Full Stack Developer** | **Web & Mobile App Specialist**  
